@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-semantic-ui-grid",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "[WIP] Grid components for Semantic UI.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/terminalvelocity/ember-cli-semantic-ui-grid",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "John-Henry Liberty <jhliberty@seedsjs.com> (http://seedsjs.com)",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",

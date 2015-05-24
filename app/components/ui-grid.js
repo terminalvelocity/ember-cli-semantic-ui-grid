@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-semantic-ui-grid/components/ui-grid';
